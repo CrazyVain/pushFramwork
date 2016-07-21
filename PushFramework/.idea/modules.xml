@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PushFramework.iml" filepath="$PROJECT_DIR$/PushFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/push_module/app.iml" filepath="$PROJECT_DIR$/push_module/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/push_module/push_module.iml" filepath="$PROJECT_DIR$/push_module/push_module.iml" />
+    </modules>
+  </component>
+</project>
