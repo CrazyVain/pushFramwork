@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 PushService.getInstance().registerJpush(this);
                 break;
             case R.id.btn_mi_push:
-                PushService.getInstance().registerMiPush(this, MIPUSH_APP_ID, MIPUSH_APP_KEY);
+                PushService.getInstance().registerMiPush(this, MIPUSH_APP_ID, MIPUSH_APP_KEY, "");
                 break;
             case R.id.btn_hw_push:
 
